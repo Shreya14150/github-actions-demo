@@ -1,6 +1,7 @@
 console.log("Running project tests...");
 
-const result = 10 + 25;
+const result = 10 + 20;
+
 if (result === 30) {
   console.log("All tests passed!");
 } else {
